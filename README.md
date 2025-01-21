@@ -1,2 +1,2 @@
 # Proyek Klasifikasi Uang
-### Input Gambar Uang yang akan dideteksi
+### Input gambar uang yang akan dideteksi
